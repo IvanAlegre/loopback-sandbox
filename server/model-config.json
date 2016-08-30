@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "event": {
+    "dataSource": "db",
+    "public": true
   }
 }
